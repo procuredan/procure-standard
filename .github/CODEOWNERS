@@ -1,0 +1,6 @@
+# Dan owns this standard. Every change needs his review.
+# NOTE: CODEOWNERS is only enforced when branch protection on `main`
+# has "Require review from Code Owners" enabled in repo settings.
+
+*           @procuredan
+/LAWS.md    @procuredan
