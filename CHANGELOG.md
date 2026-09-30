@@ -3,6 +3,10 @@
 The version of this standard in force is recorded in every deploy receipt (L10).
 Tag each released version in git so a receipt's reference resolves to exact text.
 
+## v1.1 — 2026-09-30
+- `AGENTS.md` now carries absolute raw URLs for `LAWS.md`, `ARCHITECTURE.md` and `PLAYBOOK.md`, so a chat handed only the `AGENTS.md` raw URL can fetch the rest of the standard itself.
+- `AGENTS.md` now states plainly that the public standard is foundation rules, not build instructions: without the private factory an agent can reason about the work but cannot ship it.
+
 ## v1 — 2026-09-29
 Initial standard. Adopted by Dan.
 
